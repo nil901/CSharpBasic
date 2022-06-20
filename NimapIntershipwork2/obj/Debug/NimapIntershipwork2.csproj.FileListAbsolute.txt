@@ -1,0 +1,8 @@
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\bin\Debug\NimapIntershipwork2.exe.config
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\bin\Debug\NimapIntershipwork2.exe
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\bin\Debug\NimapIntershipwork2.pdb
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\obj\Debug\NimapIntershipwork2.csproj.SuggestedBindingRedirects.cache
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\obj\Debug\NimapIntershipwork2.csproj.CoreCompileInputs.cache
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\obj\Debug\NimapIntershipwork2.exe
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\obj\Debug\NimapIntershipwork2.pdb
+G:\Nimap Intershipwork\NimapIntershipwork2\NimapIntershipwork2\obj\Debug\NimapIntershipwork2.csproj.AssemblyReference.cache
